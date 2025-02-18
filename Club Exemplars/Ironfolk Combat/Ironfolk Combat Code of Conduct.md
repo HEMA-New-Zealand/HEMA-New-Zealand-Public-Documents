@@ -101,7 +101,7 @@ For clarity, HEMA in Aotearoa New Zealand is a small community, we must take the
 
 ## Discipline
 
-We expect members to comply with NZ law at all times while representing the club. Members are also expected to comply with the law in any other country they may visit as a representative of Ironfolk Combat. Any illegal actions will be dealt with by the appropriate authorities. 
+We expect members to comply with NZ law at all times while representing the club. Members are also expected to comply with the law in any other country they may visit as a representative of Ironfolk Combat. Any illegal actions will be dealt with by the appropriate authorities.
 
 Breaches of the Code of Conduct, or any other misconduct as determined by the Club/Club Leaders, will be dealt with on a case by case basis. In many cases, we will take a restorative communication based approach, however we recognise that this is not always ideal.
 

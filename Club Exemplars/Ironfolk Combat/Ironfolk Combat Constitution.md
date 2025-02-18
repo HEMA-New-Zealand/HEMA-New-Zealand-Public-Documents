@@ -31,6 +31,7 @@ In this **Constitution**, unless the context requires otherwise, the following w
 **‘Interested Member’** means a **Member** who is interested in a matter for any of the reasons set out in section 62 of the **Act**.
 
 **‘Interests Register’** means the register of interests of **Officers**, kept under this **Constitution** and as required by section 73 of the **Act**.   
+
 **‘Matter’** means—
 
 1. the **Society’s** performance of its activities or exercise of its powers; or   

@@ -238,13 +238,13 @@ The **Committee** must, at each **Annual** **General** **Meeting**, present the 
 
 ### Special General Meetings
 
-**Special** **General** **Meetings** may be called at any time by the **Committee** by resolution.
+**Special General Meetings** may be called at any time by the **Committee** by resolution.
 
-The **Committee** must call a **Special** **General** **Meeting** if it receives a written request signed by at least 50 percent of **Members**.
+The **Committee** must call a **Special General Meeting** if it receives a written request signed by at least 50 percent of **Members**.
 
-Any resolution or written request must state the business that the **Special** **General** **Meeting** is to deal with.
+Any resolution or written request must state the business that the **Special General Meeting** is to deal with.
 
-The rules in this **Constitution** relating to the procedure to be followed at **General** **Meetings** shall apply to a **Special** **General** **Meeting**, and a **Special** **General** **Meeting** shall only consider and deal with the business specified in the **Committee’s** resolution or the written request by **Members** for the **Meeting**.
+The rules in this **Constitution** relating to the procedure to be followed at **General Meetings** shall apply to a **Special General Meeting**, and a **Special General Meeting** shall only consider and deal with the business specified in the **Committee’s** resolution or the written request by **Members** for the **Meeting**.
 
 ## Committee
 

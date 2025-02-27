@@ -10,7 +10,7 @@ For a club in New Zealand to achieve "Affiliate" status with HEMA New Zealand, i
 4. Enforce all club policy appropriately
 5. Ensure club executive members are aware of the HEMA New Zealand conflict resolution process
 
-After these requirements are met, a club may apply to affiliate with the national body. Upon acceptance, the affiliateion is complete after the newly inducted club has:
+After these requirements are met, a club may apply to affiliate with the national body. Upon acceptance, the affiliation is complete after the newly inducted club has:
 
 1. Ensured all club members are aware of HEMA New Zealand and its incident reporting and investigation process
 2. Nominated a delegate to represent the club and provide input to HEMA New Zealand discussions.

@@ -1,6 +1,5 @@
-Version 0.0.0
+# Competitive Fencing Guidelines
 
-Somebody please PR something here
 Version 0.0.0
 
 Somebody please PR something here

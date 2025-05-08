@@ -24,7 +24,13 @@ A software development platform may not appear the most intuitive platform for h
 4. Configurable change proposal and approval processes baked into the platform
 5. Capacity to incorporate a CI pipeline that will publish these documents to an actual website (eventually).
 
-## Sounds good, how do I actually use this thing?
+## Sounds good, how do I get started?
+
+Simply reading the guidelines and standards published and using them to shape the behaviour in your club is a fantastic start to making your club's ettiquette compatible with other clubs under the HEMA New Zealand framework.
+
+Affiliating your club with HEMA New Zealand officially is separate process (to be documented).
+
+### Cool, the documents look a little sparse right now, how can I contribute?
 
 The basics:
 
@@ -34,3 +40,4 @@ The basics:
    1. Once you've done this, commit these changes to your branch.
 4. Make a Pull Request, to merge your branch back into the main repo.
    1. Your branch Pull Request will notify the team for review before being either rejected or incorporated into the repository's main branch.
+   2. A discussion may occur on your Pull request, highlighting potential changes or reasons for rejection.

@@ -37,20 +37,24 @@ In this **Constitution**, unless the context requires otherwise, the following w
 
 **'General Meeting'** means either an **Annual General Meeting** or a **Special General Meeting** of the **Members** of the **Society**.
 
+**'Guideline'** means any documented standing recommendation to **Member**s and/or the public. 
+
 **HEMA** means Historical European Martial Arts and is practiced based on historical sources including manuscripts, books, and treatises. 
 
 **'Interested Member'** means a **Member** who is interested in a matter for any of the reasons set out in section 62 of the **Act**.
 
 **'Interests Register'** means the register of interests of **Officers**, kept under this **Constitution** and as required by section 73 of the **Act**.
 
-**'Matter'** means—
+**'Matter'** means:
 
-1. the **Society's** performance of its activities or exercise of its powers; or
+- the **Society**'s performance of its activities or exercise of its powers; or
     
-2. an arrangement, agreement, or contract (a transaction) made or entered into, or proposed to be entered into, by the **Society**.
+- an arrangement, agreement, or contract (a transaction) made or entered into, or proposed to be entered into, by the **Society**.
     
 
 **'Member'** means a person or an organisation that has consented to become a **Member** of the **Society** and has been properly admitted to the **Society** who has not ceased to be a **Member** of the **Society**.
+
+**'Member Requirement'** means any bylaw that places any obligation on **Member**s. 
 
 **'Notice'** to **Members** includes any notice given by email, post, or courier.
 
@@ -77,11 +81,11 @@ In this **Constitution**, unless the context requires otherwise, the following w
 
 ### Purposes
 
-The primary purposes of the **Society** are to—
+The primary purposes of the **Society** are to:
 
 Enable, promote and advance the practice of Historical European Martial Arts in New Zealand -
     
-- As a **Sport** -
+- As a **Sport**:
     
     - Act as a national federation for the **Sport**, liasing and affiliating with government and international organisations in the capacity of representing and developing the Sport in New Zealand
     
@@ -91,20 +95,20 @@ Enable, promote and advance the practice of Historical European Martial Arts in 
     
     - Advocate for participants of the **Sport** where appropriate
     
-- As a martial art -
+- As a martial art:
     
     - Promote safe practices in training and instruction of HEMA
     
     - Advocate for practicioners of HEMA where appropriate
     
-- As a research community -
+- As a research community:
     
     - promote research in HEMA and help disseminate it to the community
     
     - Advocate for research and researchers in HEMA where appropriate
     
 
-The **Society** must not operate for the purpose of, or with the effect of—
+The **Society** must not operate for the purpose of, or with the effect of:
 
 - distributing, any gain, profit, surplus, dividend, or other similar financial benefit to any of its **Members** (whether in money or in kind); or
     
@@ -113,13 +117,13 @@ The **Society** must not operate for the purpose of, or with the effect of—
 - holding, property in which its members have a disposable interest (whether directly, or in the form of shares or stock in the capital of the society or otherwise).
     
 
-But the **Society** will not operate for the financial gain of **Members** simply if the **Society**—
+But the **Society** will not operate for the financial gain of **Members** simply if the **Society**:
 
 - engages in trade,
     
 - pays a **Member** for matters that are incidental to the purposes of the **Society**, and the **Member** is a not-for-profit entity,
     
-- distributes funds to a **Member** to further the purposes of the **Society**, and the **Member**—
+- distributes funds to a **Member** to further the purposes of the **Society**, and the **Member**:
     
     - is a not-for-profit entity, and
         
@@ -158,7 +162,7 @@ Nothing in this **Constitution** authorises the **Society** to do anything which
 
 The registered office of the **Society** shall be at such place in New Zealand as the **Committee** from time to time determines.
 
-Changes to the registered office shall be notified to the Registrar of Incorporated Societies—
+Changes to the registered office shall be notified to the Registrar of Incorporated Societies:
 
 - at least 5 working days before the change of address for the registered office is due to take effect, and
     
@@ -210,14 +214,14 @@ The **Society** shall maintain the minimum number of **Members** required by the
 The classes of membership and the method by which **Members** are admitted to different classes of membership are as follows:
 
 - **Club**  
-    A **Club Member** is an organisation, primarily engaged in facilitating practice of **HEMA** for its own members, which supports the **Purposes** of the **Society**, has been facilitating regular practice of **HEMA** for its own members for at least one year, has and follows policies compatible with those of the **Society**, has chosen to pay the appropriate fee, and has been accepted as a **Member**. A **Member Club** preserves its own identity and the right to conduct its own affairs independently of the **Society**. 
+    A **Club Member** is an organisation, primarily engaged in facilitating practice of **HEMA** for its own members, which supports the **Purposes** of the **Society**, has been facilitating regular practice of **HEMA** for its own members for at least one year, has and follows policies compatible with the **Society**'s **Member Requirement**s, has chosen to pay the appropriate fee, and has been accepted as a **Member**. A **Member Club** preserves its own identity and the right to conduct its own affairs independently of the **Society**. 
 
 - **Individual**  
     An **Individual Member** is an individual who supports the **Purposes** of the **Society**, has chosen to pay the appropriate fee, and has been accepted as a **Member**. 
 
 
 Additionally, the **Society** shall affiliate with **Affiliate Club**s, which are organisations who aspire to become **Club Member**s. 
-**Affiliate Club**s are not members of the **Society**, but will be sent any communications sent to all **Member**s. 
+**Affiliate Club**s are not members of the **Society**, but will be sent any communications sent to all **Member**s, and may attend but not vote at **General Meeting**s. 
     
 
   
@@ -242,7 +246,7 @@ If the applicant is to be a **Group Member**, the applicant will become a **Memb
 If the applicant is to be an **Individual Member**, the applicant will become a **Member** on acceptance of their application by the **Committee**.
 In the case of individual applicants, the **Committee** may accept or decline an application for membership at its sole discretion. 
 
-For all types of The **Committee** must advise the applicant of its decision.
+For all types of **Member**s the **Committee** must advise the applicant of the decision.
 
 The signed written consent of every **Member** to become a **Society Member** shall be retained in the **Society**'s membership records.
 
@@ -265,7 +269,7 @@ Every **Member** shall provide the **Society** in writing with that **Member**'s
 
 ### Subscriptions and fees
 
-The annual subscription and any other fees for membership for the then current financial year shall be set by resolution of a **General Meeting** (which can also decide that payment be made by periodic instalments).
+The annual subscription and any other fees for membership for the then current financial year shall be set as a **Member Requirement** by resolution of a **General Meeting** (which can also decide that payment be made by periodic instalments).
 
 Any **Member** failing to pay the annual subscription (including any periodic payment), any levy, or any capitation fees, within 20 **Working Days** of the date the same was due for payment shall be considered as unfinancial and shall (without being released from the obligation of payment) have no membership rights and shall not be entitled to participate in any **Society** activity or to access or use the **Society**'s premises, facilities, equipment and other property until all the arrears are paid. If such arrears are not paid within 40 **Working Days** of the due date for payment of the subscription, any other fees, or levy the **Committee** may terminate the **Member**'s membership (without being required to give prior notice to that **Member**).
 
@@ -275,7 +279,7 @@ Any **Member** failing to pay the annual subscription (including any periodic pa
 
 ### Ceasing to be a member
 
-A **Member** ceases to be a **Member**—
+A **Member** ceases to be a **Member**:
 
 - by resignation from that **Member**'s class of membership by written notice signed by that **Member** to the **Committee**, or
     
@@ -283,15 +287,14 @@ A **Member** ceases to be a **Member**—
     
 - on death (or if a body corporate on liquidation or deregistration, or if a partnership on dissolution of the partnership), or
     
-- by resolution of the **Committee** where—
+- by resolution of the **Committee** where:
+    
+    - The **Member** has failed to pay a subscription, levy or other amount due to the **Society** within  **Working Days** of the due date for payment.
+    
+    - If, as determined by a majority vote of **Member**s, the **Member** has brought the Society into disrepute
     
 
-- The **Member** has failed to pay a subscription, levy or other amount due to the **Society** within  **Working Days** of the due date for payment.
-    
-- If, as determined by a majority vote of **Member**s, the **Member** has brought the Society into disrepute
-    
-
-with effect from (as applicable)—
+with effect from (as applicable):
 
 - the date of receipt of the **Member**'s notice of resignation by the **Committee** (or any subsequent date stated in the notice of resignation), or
     
@@ -308,19 +311,18 @@ with effect from (as applicable)—
 
 ### Obligations once membership has ceased
 
-A **Member** who has ceased to be a **Member** under this **Constitution**—
+A **Member** who has ceased to be a **Member** under this **Constitution**:
 
 - remains liable to pay all subscriptions and other fees to the **Society**'s next balance date,
     
-- shall cease to hold himself or herself out as a **Member** of the **Society**, and
+- shall cease to hold themself out as a **Member** of the **Society**, and
     
 - shall return to the **Society** all material provided to **Members** by the **Society** (including any membership certificate, badges, handbooks and manuals).
     
 - shall cease to be entitled to any of the rights of a **Society Member**.
     
 
-  
-**TODO: Up to here in ensuring member classes and voting rights make sense. **
+
 
 ## General meetings
 
@@ -330,20 +332,36 @@ The **Committee** shall give all **Members** at least 10 **Working Days**’ wri
 
 That **Notice** will be addressed to the **Member** at the contact address notified to the **Society** and recorded in the **Society**'s register of members. The **General Meeting** and its business will not be invalidated simply because one or more **Members** do not receive the **Notice** of the **General Meeting**.
 
-Only financial **Members** may attend, speak and vote at **General Meetings**—
 
-- in person, or
-    
-- by a signed original written proxy (an email or copy not being acceptable) in favour of some individual entitled to be present at the meeting and received by, or handed to, the **Committee** before the commencement of the **General Meeting,** or
-    
-- through the authorised representative of a body corporate as notified to the **Committee**, and
-    
-- no other proxy voting shall be permitted.
-    
+#### Club Member Participation in General Meetings
+Only financial **Club Member**s may speak and vote at **General Meetings**:
+
+- through the authorised delegates of a **Member Club** as notified to the **Committee** before the commencement of the **General Meeting**, and
+- an authorised delegate must be a member of that **Member Club**, and
+- a **Member Club** may assign proxy votes. A person holding a proxy vote must be a delegate of a **Member Club** and may not be a member of the **Member Club** assigning the proxy. Proxy votes must be advised to **Committee** before the commencement of the meeting.
+
+At any **General Meeting** no delegate shall be permitted to exercise more than one proxy vote from a **Member Club** that the delegate is not a member of. 
+
+
+#### Individual Member Participation in General Meetings
+
+Only financial **Individual Members** may speak and vote at **General Meetings**. 
+**Individual Members** may not vote on motions to change the constitution or any **Member Requirement**s. 
+
+
+#### Affiliate Club Participation in General Meetings
+
+Only financial **Affiliate Clubs** may speak but not vote at **General Meetings** through the authorised delegates of an **Affiliate Club** as notified to the **Committee** before the commencement of the **General Meeting**
+
+
+#### Quorum at General Meetings
 
 No **General Meeting** may be held unless at least 30 percent of eligible financial **Members** attend throughout the meeting and this will constitute a quorum.
 
 If, within half an hour after the time appointed for a meeting a quorum is not present, the meeting – if convened upon request of **Members** – shall be dissolved. In any other case it shall stand adjourned to a day, time and place determined by the **Chairperson** of the **Society**, and if at such adjourned meeting a quorum is not present those **Members** present in person or by proxy shall be deemed to constitute a sufficient quorum.
+
+
+#### Voting at General Meetings
 
 A **Member** is entitled to exercise one vote on any motion at a **General Meeting** in person or by proxy, and voting at a **General Meeting** shall be by voices or by show of hands or, on demand of the chairperson or of 2 or more **Members** present, by secret ballot.
 
@@ -353,11 +371,14 @@ Any decisions made when a quorum is not present are not valid.
 
 The **Society** may pass a written resolution in lieu of a **General Meeting**, and a written resolution is as valid for the purposes of the **Act** and this **Constitution** as if it had been passed at a **General Meeting** if it is approved by no less than 75 percent of the **Members** who are entitled to vote on the resolution. A written resolution may consist of 1 or more documents in similar form (including letters, electronic mail, or other similar means of communication) each proposed by or on behalf of 1 or more **Members**. A **Member** may give their approval to a written resolution by signing the resolution or giving approval to the resolution in any other manner permitted by the **Constitution** (for example, by electronic means).
 
+
+#### Management of General Meetings
+
 - **General Meetings** may be held at one or more venues by **Members** present in person and/or using any real-time audio, audio and visual, or electronic communication that gives each **Member** a reasonable opportunity to participate.
     
 - All **General Meetings** shall be chaired by the **Chairperson**. If the **Chairperson** is absent, the meeting shall elect another member of the **Committee** to chair that meeting.
     
-- Any person chairing a **General Meeting** may —
+- Any person chairing a **General Meeting** may :
     
     - With the consent of a simple majority of **Members** present at any **General Meeting** adjourn the **General Meeting** from time to time and from place to place but no business shall be transacted at any adjourned **General Meeting** other than the business left unfinished at the meeting from which the adjournment took place.
         
@@ -384,7 +405,7 @@ The **Society** must keep minutes of all **General Meetings**.
 
 An **Annual General Meeting** shall be held once a year on a date and at a location and/or using any electronic communication determined by the **Committee** and consistent with any requirements in the **Act**, and the **Constitution** relating to the procedure to be followed at **General Meetings** shall apply.
 
-The **Annual General Meeting** must be held no later than the earlier of the following—
+The **Annual General Meeting** must be held no later than the earlier of the following:
 
 - 6 months after the balance date of the **Society**
     
@@ -397,7 +418,7 @@ The **Annual General Meeting** must be held no later than the earlier of the fol
 
 ### Annual General Meetings: business
 
-The business of an **Annual General Meeting** shall be to—
+The business of an **Annual General Meeting** shall be to:
 
 - confirm the minutes of the last **Annual General Meeting** and any **Special General Meeting**(s) held since the last **Annual General Meeting**,
     
@@ -413,7 +434,7 @@ The business of an **Annual General Meeting** shall be to—
       
     
 
-The **Committee** must, at each **Annual** **General** **Meeting**, present the following information—
+The **Committee** must, at each **Annual** **General** **Meeting**, present the following information:
 
 - an annual report on the operation and affairs of the **Society** during the most recently completed accounting period,
     
@@ -437,7 +458,25 @@ Any resolution or written request must state the business that the **Special** *
 The rules in this **Constitution** relating to the procedure to be followed at **General** **Meetings** shall apply to a **Special** **General** **Meeting**, and a **Special** **General** **Meeting** shall only consider and deal with the business specified in the **Committee**'s resolution or the written request by **Members** for the **Meeting**.
 
   
-  
+
+
+## Bylaws
+
+The **Committee** from time to time may make and amend bylaws, including:
+
+- policies for the conduct and control of the **Society**, and
+- codes of conduct applicable to **Members**, 
+
+but no such bylaws, policies, or codes of conduct shall be inconsistent with this **Constitution**, the **Act**, regulations made under the **Act**, or any other legislation.
+
+
+No bylaw that affects any **Member Requirement** or otherwise changes the obligations of **Member**s may be introduced or modified without:
+
+- a consultation process with all **Member**s, and
+- being enacted by a resolution of a **General Meeting**. 
+
+
+
   
 
 ## Committee
@@ -475,7 +514,7 @@ The **Committee** has all the powers necessary for managing — and for directin
 
 ### Sub-committees
 
-The **Committee** may appoint sub-committees consisting of such persons (whether or not **Members** of the **Society**) and for such purposes as it thinks fit. Unless otherwise resolved by the **Committee**—
+The **Committee** may appoint sub-committees consisting of such persons (whether or not **Members** of the **Society**) and for such purposes as it thinks fit. Unless otherwise resolved by the **Committee**:
 
 - the quorum of every sub-committee is half the members of the sub-committee but not less than 2,
     
@@ -506,7 +545,7 @@ Other than as prescribed by the **Act** or this **Constitution**, the **Committe
 
 The quorum for **Committee** meetings is at least half the number of members of the **Committee**.
 
-A meeting of the **Committee** may be held either—
+A meeting of the **Committee** may be held either:
 
 1. by a number of the members of the **Committee** who constitute a quorum, being assembled together at the place, date and time appointed for the meeting; or
     
@@ -537,14 +576,13 @@ The **Secretary**, or other **Committee** member nominated by the **Committee**,
 
 ### Qualifications of officers
 
-Every **Officer** must be a natural person who—
+Every **Officer** must be a natural person who:
 
 - has consented in writing to be an officer of the **Society**, and
-    
 - certifies that they are not disqualified from being elected or appointed or otherwise holding office as an **Officer** of the **Society**.
     
 
-**Officers** must not be disqualified under section 47(3) of the **Act** from being appointed or holding office as an **Officer** of the **Society**, namely—
+**Officers** must not be disqualified under section 47(3) of the **Act** from being appointed or holding office as an **Officer** of the **Society**, namely:
 
 1. a person who is under 16 years of age
     
@@ -554,7 +592,7 @@ Every **Officer** must be a natural person who—
     
 4. A person who is disqualified from being a member of the governing body of a charitable entity under the Charities Act 2005
     
-5. a person who has been convicted of any of the following, and has been sentenced for the offence, within the last 7 years—
+5. a person who has been convicted of any of the following, and has been sentenced for the offence, within the last 7 years:
     
     1. an offence under subpart 6 of Part 4 of the **Act**
         
@@ -581,7 +619,7 @@ Every **Officer** must be a natural person who—
 11. a person who is subject to an order that is substantially similar to an order referred to in paragraph (6) under a law of a country, State, or territory outside New Zealand that is a country, State, or territory prescribed by the regulations (if any) of the **Act**.
     
 
-Prior to election or appointment as an **Officer** a person must—
+Prior to election or appointment as an **Officer** a person must:
 
 - consent in writing to be an **Officer**, and
     
@@ -663,7 +701,7 @@ The term of office for all **Officers** elected to the **Committee** shall be 2 
 
 ### Removal of officers
 
-An **Officer** shall be removed as an **Officer** by resolution of the **Committee** or the **Society** where in the opinion of the **Committee** or the **Society** —
+An **Officer** shall be removed as an **Officer** by resolution of the **Committee** or the **Society** where in the opinion of the **Committee** or the **Society** :
 
 - The **Officer** elected to the **Committee** has been absent from 2 committee meetings without leave of absence from the **Committee**.
     
@@ -695,7 +733,7 @@ Each **Officer** shall within 20 **Working Days** of submitting a resignation or
 
 ### Conflicts of interest
 
-An **Officer** or member of a sub-committee who is an **Interested Member** in respect of any **Matter** being considered by the **Society**, must disclose details of the nature and extent of the interest (including any monetary value of the interest if it can be quantified)—
+An **Officer** or member of a sub-committee who is an **Interested Member** in respect of any **Matter** being considered by the **Society**, must disclose details of the nature and extent of the interest (including any monetary value of the interest if it can be quantified):
 
 1. to the **Committee** and or sub-committee, and
     
@@ -705,7 +743,7 @@ An **Officer** or member of a sub-committee who is an **Interested Member** in r
   
 Disclosure must be made as soon as practicable after the **Officer** or member of a sub-committee becomes aware that they are interested in the **Matter**.
 
-An **Officer** or member of a sub-committee who is an **Interested Member** regarding a **Matter**—
+An **Officer** or member of a sub-committee who is an **Interested Member** regarding a **Matter**:
 
 1. must not vote or take part in the decision of the **Committee** and/or sub-committee relating to the **Matter** unless all members of the **Committee** who are not interested in the **Matter** consent; and
     
@@ -731,20 +769,20 @@ Where 50 per cent or more of the members of a sub-committee are prevented from v
 
 The **Society** shall keep an up-to-date Register of Members.
 
-For each current **Member**, the information contained in the Register of Members shall include —
+For each current **Member**, the information contained in the Register of Members shall include :
 
 - Their name, and
     
 - The date on which they became a **Member** (if there is no record of the date they joined, this date will be recorded as ‘Unknown’), and
     
-- Their contact details, including —
+- Their contact details, including :
     
     - A physical address or an electronic address, and
         
     - A telephone number.
         
 
-The register will also include each **Member's** —
+The register will also include each **Member's** :
 
 - email address (if any)
     
@@ -778,7 +816,7 @@ A **Member** may at any time make a written request to the **Society** for infor
 
 The request must specify the information sought in sufficient detail to enable the information to be identified.
 
-The **Society** must, within a reasonable time after receiving a request —
+The **Society** must, within a reasonable time after receiving a request :
 
 1. provide the information, or
     
@@ -790,7 +828,7 @@ The **Society** must, within a reasonable time after receiving a request —
     
 
   
-Without limiting the reasons for which the **Society** may refuse to provide the information, the **Society** may refuse to provide the information if —
+Without limiting the reasons for which the **Society** may refuse to provide the information, the **Society** may refuse to provide the information if :
 
 1. withholding the information is necessary to protect the privacy of natural persons, including that of deceased natural persons, or
     
@@ -812,7 +850,7 @@ Without limiting the reasons for which the **Society** may refuse to provide the
     
 
   
-If the **Society** requires the **Member** to pay a charge for the information, the **Member** may withdraw the request, and must be treated as having done so unless, within 10 **Working Days** after receiving notification of the charge, the **Member** informs the **Society** —
+If the **Society** requires the **Member** to pay a charge for the information, the **Member** may withdraw the request, and must be treated as having done so unless, within 10 **Working Days** after receiving notification of the charge, the **Member** informs the **Society** :
 
 1. that the **Member** will pay the charge; or
     
@@ -830,7 +868,7 @@ Nothing in this rule limits Information Privacy Principle 6 of the Privacy Act 2
 
 ### Control and management
 
-The funds and property of the **Society** shall be—
+The funds and property of the **Society** shall be:
 
 - controlled, invested and disposed of by the **Committee**, subject to this **Constitution**, and
     
@@ -843,7 +881,7 @@ All money received on account of the **Society** shall be banked within 10 **Wor
 
 All accounts paid or for payment shall be submitted to the **Committee** for approval of payment.
 
-The **Committee** must ensure that there are kept at all times accounting records that—
+The **Committee** must ensure that there are kept at all times accounting records that:
 
 1. correctly record the transactions of the **Society**, and
     
@@ -874,7 +912,7 @@ The **Society**'s financial year shall commence on 01/04 of each year and end on
 
 A dispute is a disagreement or conflict involving the **Society** and/or its **Members** in relation to specific allegations set out below.
 
-The disagreement or conflict may be between any of the following persons—
+The disagreement or conflict may be between any of the following persons:
 
 1. 2 or more **Members**
     
@@ -889,38 +927,38 @@ The disagreement or conflict may be between any of the following persons—
 6. 1 or more **Members** or **Officers** and the **Society**.
     
 
-The disagreement or conflict relates to any of the following allegations—
+The disagreement or conflict relates to any of the following allegations:
 
 1. a **Member** or an **Officer** has engaged in misconduct
     
-2. a **Member** or an **Officer** has breached, or is likely to breach, a duty under the **Society's** **Constitution** or bylaws or the **Act**
+2. a **Member** or an **Officer** has breached, or is likely to breach, a duty under the **Society**'s **Constitution** or bylaws or the **Act**
     
-3. the **Society** has breached, or is likely to breach, a duty under the **Society's** **Constitution** or bylaws or the **Act**
+3. the **Society** has breached, or is likely to breach, a duty under the **Society**'s **Constitution** or bylaws or the **Act**
     
-4. a **Member's** rights or interests as a **Member** have been damaged or **Member's** rights or interests generally have been damaged.
+4. a **Member**'s rights or interests as a **Member** have been damaged or **Member**'s rights or interests generally have been damaged.
     
 
-A **Member** or an **Officer** may make a complaint by giving to the **Committee** (or a complaints subcommittee) a notice in writing that—
+A **Member** or an **Officer** may make a complaint by giving to the **Committee** (or a complaints subcommittee) a notice in writing that:
 
-1. states that the **Member** or **Officer** is starting a procedure for resolving a dispute in accordance with the **Society's** **Constitution**; and
+1. states that the **Member** or **Officer** is starting a procedure for resolving a dispute in accordance with the **Society**'s **Constitution**; and
     
 2. sets out the allegation(s) to which the dispute relates and whom the allegation or allegations is or are against; and
     
 3. sets out any other information or allegations reasonably required by the **Society**.
     
 
-The **Society** may make a complaint involving an allegation against a **Member** or an **Officer** by giving to the **Member** or **Officer** a notice in writing that—
+The **Society** may make a complaint involving an allegation against a **Member** or an **Officer** by giving to the **Member** or **Officer** a notice in writing that:
 
-1. states that the **Society** is starting a procedure for resolving a dispute in accordance with the **Society's** **Constitution**; and
+1. states that the **Society** is starting a procedure for resolving a dispute in accordance with the **Society**'s **Constitution**; and
     
 2. sets out the allegation to which the dispute relates.
     
 
 The information setting out the allegations must be sufficiently detailed to ensure that a person against whom an allegation or allegations is made is fairly advised of the allegation or allegations concerning them, with sufficient details given to enable that person to prepare a response.
 
-A complaint may be made in any other reasonable manner permitted by the **Society's** **Constitution**.
+A complaint may be made in any other reasonable manner permitted by the **Society**'s **Constitution**.
 
-All **Members** (including the **Committee**) are obliged to cooperate to resolve disputes efficiently, fairly, and with minimum disruption to the **Society's** activities.
+All **Members** (including the **Committee**) are obliged to cooperate to resolve disputes efficiently, fairly, and with minimum disruption to the **Society**'s activities.
 
 The complainant raising a dispute, and the **Committee**, must consider and discuss whether a dispute may best be resolved through informal discussions, mediation, arbitration, or a tikanga-based practice. Where mediation or arbitration is agreed on, the parties will sign a suitable mediation or arbitration agreement.
 
@@ -930,7 +968,7 @@ The complainant raising a dispute, and the **Committee**, must consider and disc
 
 ### How complaint is made
 
-1. A **Member** or an **Officer** may make a complaint by giving to the **Committee** (or a complaints subcommittee) a notice in writing that—
+1. A **Member** or an **Officer** may make a complaint by giving to the **Committee** (or a complaints subcommittee) a notice in writing that:
     
     1. states that the **Member** or **Officer** is starting a procedure for resolving a dispute in accordance with the **Society**'s **Constitution**; and
         
@@ -938,7 +976,7 @@ The complainant raising a dispute, and the **Committee**, must consider and disc
         
     3. sets out any other information reasonably required by the **Society**.
         
-2. The **Society** may make a complaint involving an allegation or allegations against a **Member** or an **Officer** by giving to the **Member** or **Officer** a notice in writing that—
+2. The **Society** may make a complaint involving an allegation or allegations against a **Member** or an **Officer** by giving to the **Member** or **Officer** a notice in writing that:
     
 
 3. states that the **Society** is starting a procedure for resolving a dispute in accordance with the **Society**'s **Constitution**; and
@@ -959,13 +997,13 @@ The complainant raising a dispute, and the **Committee**, must consider and disc
 
 1. A **Member** or an **Officer** who makes a complaint has a right to be heard before the complaint is resolved or any outcome is determined.
     
-2. If the **Society** makes a complaint—
+2. If the **Society** makes a complaint:
     
     1. the **Society** has a right to be heard before the complaint is resolved or any outcome is determined; and
         
     2. an **Officer** may exercise that right on behalf of the **Society**.
         
-3. Without limiting the manner in which the **Member**, **Officer**, or **Society** may be given the right to be heard, they must be taken to have been given the right if—
+3. Without limiting the manner in which the **Member**, **Officer**, or **Society** may be given the right to be heard, they must be taken to have been given the right if:
     
 
 4. they have a reasonable opportunity to be heard in writing or at an oral hearing (if one is held); and
@@ -983,7 +1021,7 @@ The complainant raising a dispute, and the **Committee**, must consider and disc
 
 ### Person who is subject of complaint has right to be heard
 
-1. This clause applies if a complaint involves an allegation that a **Member**, an **Officer**, or the **Society** (the ‘respondent’)—
+1. This clause applies if a complaint involves an allegation that a **Member**, an **Officer**, or the **Society** (the ‘respondent’):
     
     1. has engaged in misconduct; or
         
@@ -995,7 +1033,7 @@ The complainant raising a dispute, and the **Committee**, must consider and disc
     
 3. If the respondent is the **Society**, an **Officer** may exercise the right on behalf of the **Society**.
     
-4. Without limiting the manner in which a respondent may be given a right to be heard, a respondent must be taken to have been given the right if—
+4. Without limiting the manner in which a respondent may be given a right to be heard, a respondent must be taken to have been given the right if:
     
 
 5. the respondent is fairly advised of all allegations concerning the respondent, with sufficient details and time given to enable the respondent to prepare a response; and
@@ -1026,7 +1064,7 @@ The complainant raising a dispute, and the **Committee**, must consider and disc
 
 ### Society may decide not to proceed further with complaint
 
-Despite the ‘Investigating and determining dispute’ rule above, the **Society** may decide not to proceed further with a complaint if—
+Despite the ‘Investigating and determining dispute’ rule above, the **Society** may decide not to proceed further with a complaint if:
 
 1. the complaint is considered to be trivial; or
     
@@ -1053,7 +1091,7 @@ Despite the ‘Investigating and determining dispute’ rule above, the **Societ
 
 ### Society may refer complaint
 
-1. The **Society** may refer a complaint to—
+1. The **Society** may refer a complaint to:
     
     1. a subcommittee or an external person to investigate and report; or
         
@@ -1068,7 +1106,7 @@ Despite the ‘Investigating and determining dispute’ rule above, the **Societ
 
 ### Decision makers
 
-A person may not act as a decision maker in relation to a complaint if 2 or more members of the **Committee** or a complaints subcommittee consider that there are reasonable grounds to believe that the person may not be—
+A person may not act as a decision maker in relation to a complaint if 2 or more members of the **Committee** or a complaints subcommittee consider that there are reasonable grounds to believe that the person may not be:
 
 1. impartial; or
     
@@ -1127,11 +1165,11 @@ However, in any resolution under this rule, the **Society** may approve a differ
 
 All amendments must be made in accordance with this **Constitution**. Any minor or technical amendments shall be notified to **Members** as required by section 31 of the **Act**.
 
-The **Society** may amend or replace this **Constitution** at a **General Meeting** by a resolution passed by a two-thirds of majority of those **Members** present and voting.
+The **Society** may amend or replace this **Constitution** at a **General Meeting** by a resolution passed by a two-thirds of majority of those **Club Members** present and voting.
 
 That amendment may be approved by a resolution passed in lieu of a meeting but only if authorised by this **Constitution**.
 
-Any proposed resolution to amend or replace this **Constitution** shall be signed by at least 10 per cent of eligible **Members** and given in writing to the **Committee** at least 10 **Working Days** before the **General Meeting** at which the resolution is to be considered and accompanied by a written explanation of the reasons for the proposal.
+Any proposed resolution to amend or replace this **Constitution** shall be signed by at least 10 per cent of eligible **Club Members** and given in writing to the **Committee** at least 10 **Working Days** before the **General Meeting** at which the resolution is to be considered and accompanied by a written explanation of the reasons for the proposal.
 
 At least 5 **Working Days** before the **General Meeting** at which any amendment is to be considered the **Committee** shall give to all **Members** notice of the proposed resolution, the reasons for the proposal, and any recommendations the **Committee** has.
 
@@ -1145,9 +1183,7 @@ When an amendment is approved by a **General Meeting** it shall be notified to t
 
 ### Common seal
 
-The **Society** will have a common seal that must be kept in the custody of—
-
-an **Officer**
+The **Society** will have a common seal that must be kept in the custody of an **Officer**. 
 
   
 The common seal may be affixed to any document:
@@ -1158,9 +1194,3 @@ The common seal may be affixed to any document:
     
 
   
-  
-  
-
-### Bylaws
-
-The **Committee** from time to time may make and amend bylaws, and policies for the conduct and control of **Society** activities and codes of conduct applicable to **Members**, but no such bylaws, policies or codes of conduct applicable to **Members** shall be inconsistent with this **Constitution**, the **Act**, regulations made under the **Act**, or any other legislation.

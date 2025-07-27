@@ -1,4 +1,4 @@
-# Constitution
+# HEMA New Zealand Constitution
 
 
 ## Introductory rules
@@ -83,7 +83,7 @@ In this **Constitution**, unless the context requires otherwise, the following w
 
 The primary purposes of the **Society** are to:
 
-Enable, promote and advance the practice of Historical European Martial Arts in New Zealand -
+Enable, promote and advance the practice of Historical European Martial Arts in New Zealand:
     
 - As a **Sport**:
     

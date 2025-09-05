@@ -240,7 +240,7 @@ Every applicant for membership must consent in writing to becoming a **Member.**
 
 An applicant for membership must complete and sign any application form, supply any information, or attend an interview as may be reasonably required by the **Committee** regarding an application for membership. 
 
-If the applicant is to be a **Group Member**, the applicant will become a **Member** if a motion to accept their application passes in a **General Meeting** with at least a simple majority.
+If the applicant is to be a **Club Member**, the applicant will become a **Member** if a motion to accept their application passes in a **General Meeting** with at least a simple majority.
 
 
 If the applicant is to be an **Individual Member**, the applicant will become a **Member** on acceptance of their application by the **Committee**.

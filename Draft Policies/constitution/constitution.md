@@ -636,7 +636,7 @@ Note that only a natural person may be an **Officer** and each certificate shall
 
 At all times each **Officer**:
 
-1. shall act in good faith and in what he or she believes to be the best interests of the **Society**,
+1. shall act in good faith and in what they believe to be the best interests of the **Society**,
     
 2. must exercise all powers for a proper purpose,
     
@@ -652,7 +652,7 @@ At all times each **Officer**:
         
 5. must not agree to the activities of the **Society** being carried on in a manner likely to create a substantial risk of serious loss to the **Society** or to the **Society**'s creditors, or cause or allow the activities of the **Society** to be carried on in a manner likely to create a substantial risk of serious loss to the **Society** or to the **Society**'s creditors, and
     
-6. must not agree to the **Society** incurring an obligation unless he or she believes at that time on reasonable grounds that the **Society** will be able to perform the obligation when it is required to do so.
+6. must not agree to the **Society** incurring an obligation unless they believe at that time on reasonable grounds that the **Society** will be able to perform the obligation when it is required to do so.
     
 
   

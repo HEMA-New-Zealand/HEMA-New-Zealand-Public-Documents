@@ -82,18 +82,18 @@ The **Society** shall have a common seal that must be kept in the custody of an 
 The primary purposes of the **Society** are to enable, promote and advance the practice of Historical European Martial Arts in New Zealand:
 
 - As a **Sport**:
-	- Act as a national federation for the **Sport**, liasing and affiliating with government and international organisations in the capacity of representing and developing the Sport in New Zealand
-	- Regulate national competitions in the **Sport**
-	- Maintain and enhance the reputation of the **Sport** and the standards of play and behaviour of Participants
-	- Advocate for participants of the **Sport** where appropriate
+	- act as a national federation for the **Sport**, liasing and affiliating with government and international organisations in the capacity of representing and developing the Sport in New Zealand; and
+	- regulate national competitions in the **Sport**; and
+	- maintain and enhance the reputation of the **Sport** and the standards of play and behaviour of **Participants**; and
+	- Advocate for **Participants** of the **Sport** where appropriate.
 
 - As a martial art:
-	- Promote safe practices in training and instruction of HEMA
-	- Advocate for practicioners of HEMA where appropriate
+	- promote safe practices in training and instruction of **HEMA**; and
+	- advocate for practicioners of **HEMA** where appropriate.
 
 - As a research community:
-	- promote research in HEMA and help disseminate it to the community
-	- Advocate for research and researchers in HEMA where appropriate
+	- promote research in **HEMA** and help disseminate it to the community; and
+	- advocate for research and researchers in **HEMA** where appropriate.
 
 
 

@@ -137,7 +137,7 @@ The primary purposes of the **Society** are to enable, promote and advance the p
 	- attend, speak, and vote at **General Meetings**, Amendments
 	- receive communication as to the activities of the **Society**, and
 	- claim **Membership** of the **Society** for purposes in accordance with the **Society**'s objectives, including funding, and
-	- subject to the management of the **Committee**, access and use the Society’s premises, facilities, equipment, and other property.
+	- subject to the management of the **Committee**, access and use the **Society**’s premises, facilities, equipment, and other property.
 
 6. An **Affiliate Club** is an organisation which:
 	- is engaged in the facilitation of the practice of the **HEMA** for its members, and
@@ -145,7 +145,7 @@ The primary purposes of the **Society** are to enable, promote and advance the p
 	- has resolved by ballot at a general meeting to affiliate with the **Society** as an **Affiliate Club**, and
 	- has, by way of a representative, signed and submitted an application to join the **Society** as an **Affiliate Club**, and
 	- has signed a memorandum of understanding with the **Society**, and
-	- has been confirmed as an **Affiliate Club** by ballot at an **General Meeting** of the **Society**, and
+	- has been confirmed as an **Affiliate Club** by ballot at a **General Meeting** of the **Society**, and
 	- has not ceased to be an **Affiliate Club**.
 
 7. An **Affiliate Club** is entitled to:

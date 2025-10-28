@@ -15,7 +15,8 @@ The **Society** is not and does not intend to be registered as a charitable enti
 ### Common Seal
 
 The **Society** shall have a common seal that must be kept in the custody of an **Officer**. The common seal may be affixed to any document:
-- by resolution of the **Committee**, and must be countersigned by 2 **Officer**s or
+
+- by resolution of the **Committee**, and must be countersigned by 2 **Officer**s, or
 - by such other means as the **Committee** may resolve from time to time.
 
 

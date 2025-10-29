@@ -112,6 +112,7 @@ The primary purposes of the **Society** are to enable, promote and advance the p
 	- has been active for more than one year, and
 	- has resolved by ballot at a general meeting to join the **Society** as a **Club Member**, and
 	- has, by way of a representative, signed and submitted an application to join the **Society**, and
+	- is compliant with all applicable bylaws, and
 	- has been confirmed as a club member by ballot of existing **Club Member**s at a **General Meeting** of the **Society**, and
 	- pays all appropriate fees and levies to the **Society**, and
 	- has not ceased to be a **Member**.

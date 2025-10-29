@@ -525,9 +525,10 @@ The primary purposes of the **Society** are to enable, promote and advance the p
 	- All **Member**s have equally weighted votes.
 	- During voting, **Member**s will rank candidates in order of preference counting up, with 1 being the most preferred, 2 being the next most preferred, and so on. Voters may stop ranking candidates at any point.
 	- The counting of the votes will occur in rounds:
-		1. If there is more than one candidate left, eliminate the one with the fewest first-preference votes.
-		2. Reassign votes held by the eliminated candidates to the next-highest preference on each ballot (setting aside any with no remaining preferences).
-		3. Return to step 1.
+		1. If there is a candidate with more than 50 percent of the remaining votes, they are elected to office.
+		2. If there is more than one candidate left, eliminate the one with the fewest first-preference votes.
+		3. Reassign votes held by the eliminated candidates to the next-highest preference on each ballot (setting aside any with no remaining preferences).
+		4. Return to step 1.
 
 	- At the end of this procedure, in the event that two or more candidates are tied for the most remaining first preference votes, then the tie shall be decided by the incoming **Committee**, excluding those in respect of whom the votes are tied.
 		- In the event that the incoming Committee is unable to decide the outcome of the tie, then the Returning Officer shall decide the outcome of the tie.
@@ -724,19 +725,21 @@ The primary purposes of the **Society** are to enable, promote and advance the p
 
 1. In all instances where a resolution is tabled, a Quorum must be established before a vote can commence.
 
-2. **Individual Member**s of the **Society** are entitled to exercise one vote at **General Meeting**s for motions on agenda items that do not change the obligations placed on **Club Member**s. The agenda must note items for which **Individual Member**s cannot vote.
+2. Unless otherwise specified in this **Constitution**, all decisions and resolutions at a **General Meeting** will be passed by a **Simple Majority** of eligible voting members.
 
-3. **Club Member**s of the **Society** are entitled to exercise one vote at **General Meeting**s for all motions.
+3. **Individual Member**s of the **Society** are entitled to exercise one vote at **General Meeting**s for motions on agenda items that do not change the obligations placed on **Club Member**s. The agenda must note items for which **Individual Member**s cannot vote.
+
+4. **Club Member**s of the **Society** are entitled to exercise one vote at **General Meeting**s for all motions.
 
 	- **Club Member**s must designate in writing to the **Committee** a representative to exercise their votes.
 
-4. **Affiliate Club**s are not entitled to any votes at **General Meeting**s.
+5. **Affiliate Club**s are not entitled to any votes at **General Meeting**s.
 
-5. Voting shall be conducted electronically through a process designated by the **Committee**, or where available to all **Member**s by a show of hands.
+6. Voting shall be conducted electronically through a process designated by the **Committee**, or where available to all **Member**s by a show of hands.
 	- The voting process must not allow **Member**s to exercise more votes than they are provided in this **Constitution**.
 	- This process must be fairly accessible to all voting members of the **Society**.
 
-6. The **Society** may pass a written resolution in lieu of a **General Meeting**, provided:
+7. The **Society** may pass a written resolution in lieu of a **General Meeting**, provided:
 
 	- All members of the **Society** are given **Notice** of the written resolution, and
 	- A deadline for voting, no later than 20 **Working Day**s since **Notice** is given, is set by the **Committee**, and

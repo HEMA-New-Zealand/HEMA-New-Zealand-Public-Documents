@@ -374,7 +374,7 @@ The primary purposes of the **Society** are to enable, promote and advance the p
 3. Liquidation of the **Society** may be proposed at any time by a **Member** of the **Society**, provided that:
 	- The proposal is signed by at least 30% of **Individual Members**, and
 	- The proposal is signed by at least 50% of **Club Members**, and
-	- The proposal amendment has been given in writing to the **Committee** at least 40 **Working Day**s before the **General Meeting** at which the amendment is to be considered, and
+	- The proposal has been given in writing to the **Committee** at least 40 **Working Day**s before the **General Meeting** at which the proposal is to be considered, and
 	- The proposal is accompanied by a written explanation of the reasons for the liquidation.
 
 4. At least 30 **Working Day**s before the **General Meeting** at which liquidation is to be considered, the **Committee** shall give to all **Members** **Notice** of the proposed liquidation, and the reasons for the proposal.
@@ -468,7 +468,7 @@ The primary purposes of the **Society** are to enable, promote and advance the p
 	- Currently reside within New Zealand, and
 	- Be an **Individual Member** in the **Society**, and
 	- Be 18 years of age or older, and
-	- No be disqualified by having already served 5 consecutive terms of office, and
+	- Not be disqualified by having already served 5 consecutive terms of office, and
 	- Not be disqualified under section 47(3) of the **Act** from being appointed or holding office as an **Officer** of the **Society**, namely:
 		- Is not a person who is an undischarged bankrupt
 		- Is not a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, the Financial Markets Conduct Act 2013, or the Takeovers Act 1993, or any other similar legislation

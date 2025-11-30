@@ -107,6 +107,7 @@ The primary purposes of the **Society** are to enable, promote and advance the p
 	Additionally, the **Society** may affiliate with **Affiliate Club**s, which are organisations who aspire to become **Club Member**s. **Affiliate Club**s follow the same procedures as **Club Members**, but may not vote and are not considered as **Member**s of the **Society**.
 
 2. A **Club Member** is an organisation which:
+	- is at minimum an unincorporated society, but may be an incorporated society, and
 	- is engaged in the facilitation of the practice of the **HEMA** for its members, and
 	- supports the purposes of the **Society**, and
 	- has been active for more than one year, and
@@ -264,7 +265,6 @@ The primary purposes of the **Society** are to enable, promote and advance the p
 	- the complaint appears to be without foundation or there is no apparent evidence to support it; or
 	- the person who makes the complaint has an insignificant interest in the matter; or
 	- the conduct, incident, event, or issue giving rise to the complaint has already been investigated and dealt with under the **Constitution**; or
-	- more than three months passed between the event that is the subject of the complaint and the complaint being made.
 
 11. If the mediator deems the complaint to have merit, then they may take any of the following actions:
 	- Demand an immediate apology from the **Respondent**.
